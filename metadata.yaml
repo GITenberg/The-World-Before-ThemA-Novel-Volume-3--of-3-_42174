@@ -17,6 +17,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
 description: Volume 3 of a 3 volume set. For individual volumes in the set see CIHM
   nos. 94141-94143.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42174#The-World-Before-ThemA-Novel-Volume-3--of-3-
 gutenberg_issued: '2013-02-23'
 gutenberg_type: Text
 identifiers:
