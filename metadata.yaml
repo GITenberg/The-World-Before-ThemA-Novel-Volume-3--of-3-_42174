@@ -1,0 +1,32 @@
+_repo: The-World-Before-ThemA-Novel-Volume-3--of-3-_42174
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42174-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moodie, Susanna
+    aliases:
+    - Strickland, Susannah
+    - Strickland, S. (Susanna)
+    - Moodie, Susannah Strickland
+    birthdate: 1803
+    deathdate: 1885
+    gutenberg_agent_id: '2656'
+    url: http://www.gutenberg.org/2009/agents/2656
+    wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
+description: Volume 3 of a 3 volume set. For individual volumes in the set see CIHM
+  nos. 94141-94143.
+gutenberg_issued: '2013-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: 'The World Before Them: A Novel. Volume 3 (of 3)'
+url: http://www.gutenberg.org/ebooks/42174
